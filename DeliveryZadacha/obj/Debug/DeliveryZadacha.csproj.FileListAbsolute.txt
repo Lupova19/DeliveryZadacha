@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\bin\Debug\DeliveryZadacha.exe.config
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\bin\Debug\DeliveryZadacha.exe
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\bin\Debug\DeliveryZadacha.pdb
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\obj\Debug\DeliveryZadacha.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\obj\Debug\DeliveryZadacha.Properties.Resources.resources
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\obj\Debug\DeliveryZadacha.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\obj\Debug\DeliveryZadacha.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\obj\Debug\DeliveryZadacha.exe
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\obj\Debug\DeliveryZadacha.pdb
