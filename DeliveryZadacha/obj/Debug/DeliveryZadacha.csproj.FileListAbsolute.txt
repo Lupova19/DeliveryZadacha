@@ -7,3 +7,8 @@ C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\obj\Debug\De
 C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\obj\Debug\DeliveryZadacha.csproj.CoreCompileInputs.cache
 C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\obj\Debug\DeliveryZadacha.exe
 C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\obj\Debug\DeliveryZadacha.pdb
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\DeliveryNadezhda_11d_11\DeliveryZadacha\obj\Debug\Delivery.AA39A211.Up2Date
